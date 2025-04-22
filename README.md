@@ -29,8 +29,8 @@ API to manage (create, fetch and delete user data) a CSV database using mobile n
 ### `POST /createRecord`
 Creates a new user record.
 
-#### Sample JSON Body:
-```json
+### Sample JSON Body:
+``json
 {
   "name": "John Doe",
   "phone": "9876543210",
